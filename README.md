@@ -1,9 +1,9 @@
 # Exp3-Sobel-edge-detection-filter-using-CUDA-to-enhance-the-performance-of-image-processing-tasks.
 
 <h3>ENTER YOUR NAME</h3> Shankar S B
-<h3>ENTER YOUR REGISTER NO</h3>
-<h3>EX. NO</h3>
-<h3>DATE</h3>
+<h3>ENTER YOUR REGISTER NO</h3> 212225230260
+<h3>EX. NO</h3> EXP 3
+<h3>DATE</h3> 10.11.26
 <h1> <align=center> Sobel edge detection filter using CUDA </h3>
   Implement Sobel edge detection filtern using GPU.</h3>
 Experiment Details:
@@ -166,7 +166,7 @@ int main() {
 
 
 ## RESULT:
-Thus the program has been executed by using CUDA to ________________.
+Thus the program has been executed by using CUDA to perform 2D Sobel edge detection on an image using parallel GPU computing and analyze its execution time. 
 
 Questions:
 
